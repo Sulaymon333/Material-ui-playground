@@ -11,4 +11,7 @@ I have learnt and implemented the following in this project
 
 Please feel free to switch to other branches to see all my projects in material-ui
 
+Table of Projects
+- [Material-ui project](https://github.com/Sulaymon333/material-ui-playground/tree/material-ui-project)
+
 Happy Coding 😀😍!
