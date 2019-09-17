@@ -9,4 +9,6 @@ I have learnt and implemented the following in this project
 - customizing any material-ui component to own taste
 - And many more tricks related to using material-ui and working with the a frontend React App
 
+Please feel free to switch to other branches to see all my projects in material-ui
+
 Happy Coding 😀😍!
